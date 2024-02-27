@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=0,1&height=200&section=header&text=KOJUHEE's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=2&height=200&section=header&text=KOJUHEE's%20Github&fontSize=90)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=162flower&show_icons=true&theme=ambient_gradient)
 
 <!--
