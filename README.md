@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=6&height=200&section=header&text=KOJUHEE's%20Github&fontSize=50)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=162flower&show_icons=true&theme=ambient_gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=162flower&show_icons=true&theme=vue)
 
 <!--
 **162flower/162flower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
