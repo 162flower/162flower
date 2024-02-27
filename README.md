@@ -4,6 +4,9 @@
 **162flower/162flower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+  ![header](https://capsule-render.vercel.app/api?
+  type=rounded&color=timeGradient&text=Welcome%20to%20KoJuHee's%20GitHub%20👋
+  &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
